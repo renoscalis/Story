@@ -1,1 +1,2 @@
 This is my first git test.
+This is a branch version of chapter2.
